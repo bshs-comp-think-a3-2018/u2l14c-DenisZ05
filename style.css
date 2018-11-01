@@ -1,39 +1,32 @@
-body{
-  text-align: center;
-  background-color: gray;
+body {
+  background:lightgray;
 }
-img {
-  width: 500px;
-  border-color:black;
-  border-style: ridge;
-  border-width: 5px;
+p {
+  color: black;
+  font-family:cursive;
+  text-align:center;
+  
 }
 h1 {
-  font-size: 50px;
+  color: darkorange;
+  font-weight: bold;
+  font-family: cursive;
+  font-size: 35px;
+  border: dotted;
+  text-align: center;
 }
 h2 {
-  font-size: 40px;
-}
-h5 {
-  font-size: 15px;
-} 
-
-.winter {
-  color: rgb(195,230,255);
-  font-family: monospace; 
-} 
-
-.spring {
-  color: rgb(236,222,106);
-  font-family: cursive;  
+  color:darkorange;
+  text-align: center;
 }
 
-.summer {
-  color: rgb(234,128,158);
-  font-family: sans-serif;
+img{ 
+  width: 250px;
+  border-style: dotted;
+  float: right;
+  border-width: thick;
+  border-radius: 25px;
+  margin:25px
 }
-
-.fall {
-  color: rgb(61,172,83);
-  font-family: inherit;
-}
+lu{
+  margin: 20px;
