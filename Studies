@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <link rel= "stylesheet" href="style.css">
+    <h2> Studies </h2>
+  </head>
+  <body>
+    <ol> 
+      <li> “Don’t let what you cannot do interfere with what you can do.” – John Wooden </li>
+      <li> “Successful and unsuccessful people do not vary greatly in their abilities. They vary in their desires to reach their potential.” – John Maxwell </li>
+      <li> “Strive for progress, not perfection.” – Unknown </li>
+      <li> “There are no shortcuts to any place worth going.” – Beverly Sills </li>
+      <li> “Failure is the opportunity to begin again more intelligently.” – Henry Ford </li>
+      <li> “Our greatest weakness lies in giving up. The most certain way to succeed is always to try just one more time.” – Thomas A. Edison </li>
+      <li> “You’ve got to get up every morning with determination if you’re going to go to bed with satisfaction.” – George Lorimer </li>
+    </ol>
+    <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" /></a><br /> This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/ > <Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License </a>
+      <p> <a> href="index.html" Back to home </a> </p>
+  </body>
+</html>
