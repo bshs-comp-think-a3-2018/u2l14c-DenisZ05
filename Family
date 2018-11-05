@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <link rel= "stylesheet" href="style.css">
+    <h2> Family </h2>
+  </head>
+  <body>
+    <ol>
+      <li> “A happy family is but an earlier heaven.” —George Bernard Shaw </li>
+      <li> “The family is the test of freedom; because the family is the only thing that the free man makes for himself and by himself.” —Gilbert K. Chesterton </li>
+      <li>“You leave home to seek your fortune and, when you get it, you go home and share it with your family.” —Anita Baker </li>
+      <li>  “Call it a clan, call it a network, call it a tribe, call it a family: Whatever you call it, whoever you are, you need one.” —Jane Howard </li>\
+      <li> “The family is one of nature’s masterpieces.” —George Santayana </li>
+      <li>  “Families are the compass that guides us. They are the inspiration to reach great heights, and our comfort when we occasionally falter.” —Brad Henry </li>
+      <li> “Other things may change us, but we start and end with the family.” —Anthony Brandt </li>
+    </ol>
+    <img src="2.jpg" alt Quote 2>
+    <p> By Rob Siltanen (BrianTracy.com) | Free to use</p>
+  <p>  <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License</a>.</p>
+    <p>  <a href="index.html"> Back to home </a> </p>
+  </body>
+</html>
