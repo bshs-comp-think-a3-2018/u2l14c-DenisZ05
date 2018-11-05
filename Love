@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <link rel= "stylesheet" href="style.css">
+    <h2> Love </h2>
+  </head>
+  <body>
+    <ol>
+      <li> “I have found the paradox, that if you love until it hurts, there can be no more hurt, only more love.”
+        – Mother Teresa </li>
+      <li> “Don’t settle for a relationship that won’t let you be yourself.”
+        – Oprah Winfrey </li>
+      <li> “I’m selfish, impatient and a little insecure. I make mistakes, I am out of control and at times hard to handle. But if you can’t handle me at my worst, then you sure as hell don’t deserve me at my best.”
+        – Marilyn Monroe </li>
+      <li>“Only time can heal your broken heart, just as only time can heal his broken arms and legs.”
+        – Miss Piggy </li>
+      <li> Sexiness is a state of mind – a comfortable state of being. It’s about loving yourself in your most unlovable moments.”
+        – Halle Berry </li>
+      <li> “We love the things we love for what they are.”
+        – Robert Frost </li>
+      <li> “Better to have lost and loved than never to have loved at all.”
+        – Hemingway </li>
+    </ol>
+    <img src="3.jpg" Quote 3>
+    <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License</a>.
+    <p> <a href="index.html"> Back to home </a> </p>
+    <p> By purehappylife.com | Free to use<p/>
+  </body>
+</html>
