@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <link rel= "stylesheet" href="style.css">
+    <h2> Life </h2>
+  </head>
+  <body>
+    <ol>
+      <li>  “The Way Get Started Is To Quit Talking And Begin Doing.” – Walt Disney </li>
+      <li> “The Pessimist Sees Difficulty In Every Opportunity. The Optimist Sees Opportunity In Every Difficulty.” – Winston Churchill </li>
+      <li> “Don’t Let Yesterday Take Up Too Much Of Today.” – Will Rogers </li>
+      <li> “You Learn More From Failure Than From Success. Don’t Let It Stop You. Failure Builds Character.” – Unknown </li>
+      <li>  “It’s Not Whether You Get Knocked Down, It’s Whether You Get Up.” – Inspirational Quote By Vince Lombardi </li>
+      <li>  “If You Are Working On Something That You Really Care About, You Don’t Have To Be Pushed. The Vision Pulls You.” – Steve Jobs </li>
+      <li>  “People Who Are Crazy Enough To Think They Can Change The World, Are The Ones Who Do.” – Rob Siltanen </li>
+      </ol>
+    <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License</a>.
+    <p> <a href="index.html"> Back to home </a> </p>
+  </body>
+</html>
